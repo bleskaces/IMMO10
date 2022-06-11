@@ -1,0 +1,11 @@
+C:\Users\xisao\Downloads\IM10-master\IM10-master\IM10\bin\Debug\IM10.exe.config
+C:\Users\xisao\Downloads\IM10-master\IM10-master\IM10\bin\Debug\IM10.exe
+C:\Users\xisao\Downloads\IM10-master\IM10-master\IM10\bin\Debug\IM10.pdb
+C:\Users\xisao\Downloads\IM10-master\IM10-master\IM10\obj\Debug\IM10.csproj.AssemblyReference.cache
+C:\Users\xisao\Downloads\IM10-master\IM10-master\IM10\obj\Debug\IM10.csproj.SuggestedBindingRedirects.cache
+C:\Users\xisao\Downloads\IM10-master\IM10-master\IM10\obj\Debug\IM10.Form1.resources
+C:\Users\xisao\Downloads\IM10-master\IM10-master\IM10\obj\Debug\IM10.Properties.Resources.resources
+C:\Users\xisao\Downloads\IM10-master\IM10-master\IM10\obj\Debug\IM10.csproj.GenerateResource.cache
+C:\Users\xisao\Downloads\IM10-master\IM10-master\IM10\obj\Debug\IM10.csproj.CoreCompileInputs.cache
+C:\Users\xisao\Downloads\IM10-master\IM10-master\IM10\obj\Debug\IM10.exe
+C:\Users\xisao\Downloads\IM10-master\IM10-master\IM10\obj\Debug\IM10.pdb
